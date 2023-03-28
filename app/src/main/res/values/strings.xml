@@ -1,0 +1,25 @@
+<resources>
+	<string name="app_name" translatable="false">ChatGPT</string>
+	<string name="ask" translatable="false">Ask something</string>
+	<string name="ask_tw" translatable="false">問點什麼吧~</string>
+	<string name="add_api" translatable="false">Add API Key</string>
+	<string name="add_api_tw" translatable="false">添加API Key</string>
+	<string name="change_api" translatable="false">Change API Key</string>
+	<string name="change_api_tw" translatable="false">更換API Key</string>
+	<string name="about" translatable="false">About</string>
+	<string name="about_tw" translatable="false">關於</string>
+	<string name="api" translatable="false">輸入您的API Key</string>
+	<string name="api_tw" translatable="false">Enter your API Key</string>
+	<string name="done" translatable="false">Done</string>
+	<string name="done_tw" translatable="false">完成</string>
+	<string name="invalid_api" translatable="false">Invalid API Key</string>
+	<string name="invalid_api_tw" translatable="false">無效的API key</string>
+	<string name="empty" translatable="false">This field can\'t leave blank</string>
+	<string name="empty_tw" translatable="false">請輸入內容</string>
+	<string name="no_api_key_title" translatable="false">Error</string>
+	<string name="no_api_key_title_tw" translatable="false">錯誤</string>
+	<string name="no_api_key_message" translatable="false">You have not added the API key of ChatGPT, please click the menu in the upper right corner to enter your API key and continue.</string>
+	<string name="no_api_key_message_tw" translatable="false">您尚未添加 ChatGPT 的 API key，請點擊右上角選單輸入您的API key後繼續執行</string>
+	<string name="no_api_key_ok" translatable="false">Ok</string>
+	<string name="no_api_key_ok_tw" translatable="false">去添加</string>
+</resources>
